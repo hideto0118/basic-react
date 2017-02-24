@@ -4,7 +4,7 @@ Made with tutorial of [react-js-tutorials](https://github.com/learncodeacademy/r
 
 
 ## Instructions to run
-1. Navigate to folder */1-basic-react*
+1. Navigate to folder *basic-react-master*
 2. *NPM install*
 3. *NPM run dev*
 4. Navigate to localhost:8080
